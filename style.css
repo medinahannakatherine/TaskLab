@@ -1,0 +1,27 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.bgcolor {
+    background-color: #E8F0FF;
+}
+.secondarybgcolor {
+    background-color: #6874E8;
+}
+.secondarycolor {
+    color: #6874E8;
+}
+.title {
+    font-weight: 800;
+    text-shadow: grey 0px 5px 15px;
+}
+.buttonbg {
+background-color: #392759;
+color: white;
+}
+.buttonbg:hover {
+background-color: #523F73;
+color: white;
+}
+.gradient {
+background: linear-gradient(to bottom, #e8f0ff 9%, #6874e8 94%);
+}
